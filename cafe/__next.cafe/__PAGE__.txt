@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[5906,["568","static/chunks/568-095e932eb4a6770f.js","762","static/chunks/762-4dc47186905d62d9.js","846","static/chunks/app/cafe/page-4cb5cc5da01c9351.js"],"CafePlanner"]
+2:I[6948,["568","static/chunks/568-095e932eb4a6770f.js","762","static/chunks/762-4dc47186905d62d9.js","846","static/chunks/app/cafe/page-17cf1fe7cdddb584.js"],"CafePlanner"]
 3:I[1872,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-:HL["/vexum-online/_next/static/css/5f990a11656d917e.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"vexum-twin-font","children":["$","$L2",null,{}]}],[["$","link","0",{"rel":"stylesheet","href":"/vexum-online/_next/static/css/5f990a11656d917e.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XGbkrgFJucaAtIjiZX7c6"}
+:HL["/vexum-online/_next/static/css/1c567d5ba10a5744.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"vexum-twin-font","children":["$","$L2",null,{}]}],[["$","link","0",{"rel":"stylesheet","href":"/vexum-online/_next/static/css/1c567d5ba10a5744.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"woTTBv4Ox4p8rsUa5x-0M"}
 5:null

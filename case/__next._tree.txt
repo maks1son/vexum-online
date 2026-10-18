@@ -1,4 +1,4 @@
-:HL["/vexum-online/_next/static/css/babd9e91213b1d80.css","style"]
-:HL["/vexum-online/_next/static/css/4d44f96471b00b07.css","style"]
+:HL["/vexum-online/_next/static/css/0a1f80f12a14502d.css","style"]
+:HL["/vexum-online/_next/static/css/1c567d5ba10a5744.css","style"]
 :HL["/vexum-online/_next/static/css/b15343626f7a724f.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"case","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"XGbkrgFJucaAtIjiZX7c6"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"case","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"woTTBv4Ox4p8rsUa5x-0M"}
