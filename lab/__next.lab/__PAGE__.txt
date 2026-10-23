@@ -2,6 +2,6 @@
 2:I[9412,["568","static/chunks/568-095e932eb4a6770f.js","378","static/chunks/app/lab/page-34d9c70f1f974d98.js"],"DecisionLab"]
 3:I[1872,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-:HL["/vexum-online/_next/static/css/6ac7db0cc0dac405.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"vexum-twin-font","children":["$","$L2",null,{}]}],[["$","link","0",{"rel":"stylesheet","href":"/vexum-online/_next/static/css/6ac7db0cc0dac405.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"C4E-fUwpKR8eorI1WWs6T"}
+:HL["/vexum-online/_next/static/css/fb06db58e0317d3b.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"vexum-twin-font","children":["$","$L2",null,{}]}],[["$","link","0",{"rel":"stylesheet","href":"/vexum-online/_next/static/css/fb06db58e0317d3b.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"U8qU46y4Q0KsnQOtvTuQW"}
 5:null
