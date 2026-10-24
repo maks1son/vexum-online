@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[655,["568","static/chunks/568-095e932eb4a6770f.js","137","static/chunks/137-0a6d10fc5780fce9.js","269","static/chunks/app/business-cases/page-522339e1f6389fde.js"],"Booth"]
+2:I[655,["568","static/chunks/568-095e932eb4a6770f.js","137","static/chunks/137-0a6d10fc5780fce9.js","269","static/chunks/app/business-cases/page-93830dd7fde86118.js"],"Booth"]
 3:I[1872,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-:HL["/vexum-online/_next/static/css/fb06db58e0317d3b.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"vexum-twin-font","children":["$","$L2",null,{}]}],[["$","link","0",{"rel":"stylesheet","href":"/vexum-online/_next/static/css/fb06db58e0317d3b.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Bg_0Nvvcm620wSkXk7qcG"}
+:HL["/vexum-online/_next/static/css/d72577ef0e016884.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"vexum-twin-font","children":["$","$L2",null,{}]}],[["$","link","0",{"rel":"stylesheet","href":"/vexum-online/_next/static/css/d72577ef0e016884.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_0D_pCcnEj0_qwhyQgJce"}
 5:null
